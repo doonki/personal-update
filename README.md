@@ -54,7 +54,7 @@
 
 
 
-![4.jpg](C:\Users\SSAFY\Desktop\gitest\img\4.jpg)
+![4.jpg](./img/4.jpg)
 
 
 
@@ -66,12 +66,12 @@
 
 
 
-![1.jpg](C:\Users\SSAFY\Desktop\gitest\img\1.jpg)
+![1.jpg](./img/1.jpg)
 
-![5.jpg](C:\Users\SSAFY\Desktop\gitest\img\5.jpg)
+![5.jpg](./img/5.jpg)
 
 
 
-![6.jpg](C:\Users\SSAFY\Desktop\gitest\img\6.jpg)
+![6.jpg](./img/6.jpg)
 
-![3.png](C:\Users\SSAFY\Desktop\gitest\img\3.png)
+![3.png](./img/3.png)
