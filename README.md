@@ -4,7 +4,6 @@
 
 ---
 
-<img title="" src="./img/2.jpg" alt="2.jpg" width="190" data-align="center">
 
 > *누군가 대한민국의 미래를 묻는다면 고개를 들어 싸피를 보게 하라. - somebody*
 
