@@ -50,7 +50,7 @@
 
 
 
-![cat.jpg](C:\Users\SSAFY\Desktop\gitest\img\cat.jpg)
+![cat.jpg](./img/cat.jpg)
 
 
 
